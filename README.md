@@ -46,6 +46,20 @@ In the form of the bar chart
 
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-5.png)
 
+## Ride Cancellation Overview
+- There is 38% ride get cancelled due to 3 reasons
+### Month wise cancelling
+- All months have almost same cancelllation rate
+  
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-6.png)
+### Splitting of Cancellation 
+- 58% rides cancelled by Driver
+  
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-7.png)
+
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-8.png)
+
+
 ## Business Impact
 - Dynamic driver allocation during peak hours can reduce missed rides
 - Targeted incentives for drivers in high-demand periods can lower cancellations
