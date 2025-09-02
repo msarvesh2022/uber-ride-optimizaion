@@ -3,7 +3,9 @@
 
 ## Objective
 Identify the key reasons for Uber ride cancellations and analyze their impact on overall revenue. Provide actionable insights to improve driver availability, reduce cancellations, and optimize revenue.
-
+## Data
+- Got the uber booking data from the kaggle of the year of 2024
+- Data has 150k unique booking records in delhi region of different months
 ## Tools Used
 - MS Excel: for exploratory data analysis and visualization
 - MySQL: for querying, cleaning, and aggregating booking-level data
@@ -19,20 +21,25 @@ Identify the key reasons for Uber ride cancellations and analyze their impact on
   - Peak hours (5–7 PM) alone contribute 23% of total revenue
 - Trend Analysis: Monthly performance remains consistent, indicating structural challenges in ride matching and availability
 ### Month wise booking
+- Total 150k booking in the year of 2024 in delhi region
+- All month shows the almost same booking behaviour
   ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-1.png)
 
-### Image-2
+### Month wise booking
+In the form of the bar chart 
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-2.png)
 
 
-### Image-3
+### Booking in different time zone
+- Data shows there is two time zone where booking are maximum
+- 7AM to 12PM
+- 4PM to 9PM
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-3.png)
 
-### Image-4
+### Booking as per vehicle
 
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-4.png)
 
-### Image-5
 
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-5.png)
 
