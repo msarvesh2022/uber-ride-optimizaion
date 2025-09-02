@@ -23,7 +23,8 @@ Identify the key reasons for Uber ride cancellations and analyze their impact on
 ### Month wise booking
 - Total 150k booking in the year of 2024 in delhi region
 - All month shows the almost same booking behaviour
-  ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-1.png)
+
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-1.png)
 
 ### Month wise booking
 In the form of the bar chart 
