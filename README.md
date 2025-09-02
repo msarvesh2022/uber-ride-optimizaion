@@ -19,6 +19,8 @@ Identify the key reasons for Uber ride cancellations and analyze their impact on
   - Peak hours (5–7 PM) alone contribute 23% of total revenue
 - Trend Analysis: Monthly performance remains consistent, indicating structural challenges in ride matching and availability
 
+  ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-1.png)
+
 ## Business Impact
 - Dynamic driver allocation during peak hours can reduce missed rides
 - Targeted incentives for drivers in high-demand periods can lower cancellations
