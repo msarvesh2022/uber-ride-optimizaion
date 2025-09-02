@@ -18,8 +18,23 @@ Identify the key reasons for Uber ride cancellations and analyze their impact on
   - Two time windows (4 hrs and 6 hrs) account for 86% of net revenue
   - Peak hours (5–7 PM) alone contribute 23% of total revenue
 - Trend Analysis: Monthly performance remains consistent, indicating structural challenges in ride matching and availability
-
+### Month wise booking
   ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-1.png)
+
+### Image-2
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-2.png)
+
+
+### Image-3
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-3.png)
+
+### Image-4
+
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-4.png)
+
+### Image-5
+
+![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-5.png)
 
 ## Business Impact
 - Dynamic driver allocation during peak hours can reduce missed rides
