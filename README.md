@@ -28,6 +28,7 @@ Identify the key reasons for Uber ride cancellations and analyze their impact on
 
 ### Month wise booking
 In the form of the bar chart 
+
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-2.png)
 
 
@@ -35,6 +36,7 @@ In the form of the bar chart
 - Data shows there is two time zone where booking are maximum
 - 7AM to 12PM
 - 4PM to 9PM
+  
 ![](https://github.com/msarvesh2022/uber-ride-optimizaion/blob/main/visualization/uber-3.png)
 
 ### Booking as per vehicle
